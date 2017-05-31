@@ -1,0 +1,12 @@
+# Eclipse files
+.metadata
+.recommenders
+.classpath
+.project
+.settings/
+RemoteSystemsTempFiles/
+bin/
+
+# Gradle files
+build/
+.gradle/
